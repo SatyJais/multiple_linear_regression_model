@@ -10,3 +10,5 @@ Part of Google Advanced Data Analysis Certification
 - MAE: 2.1247814142132455
 - MSE: 17.521791212694772
 - RMSE: 4.185903870455552
+
+[Jupyter File](Activity_ Course 5 Automatidata project lab.ipynb_)
