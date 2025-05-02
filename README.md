@@ -11,4 +11,4 @@ Part of Google Advanced Data Analysis Certification
 - MSE: 17.521791212694772
 - RMSE: 4.185903870455552
 
-[Jupyter File](Activity_ Course 5 Automatidata project lab.ipynb_)
+[Jupyter File]https://github.com/SatyJais/multiple_linear_regression_model/blob/main/Activity_%20Course%205%20Automatidata%20project%20lab.ipynb)
